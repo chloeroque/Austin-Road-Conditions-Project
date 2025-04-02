@@ -1,2 +1,2 @@
 # Austin-Road-Conditions-Project
-For my Data Science class this semester, my team and I analyzed 4.6 million rows of data covering Austin’s road conditions!
+My team analyzed 4.6 million rows of data on Austin’s road conditions. This project focuses on uncovering patterns, identifying key issues, and providing data-driven insights to better understand the state of Austin’s infrastructure.
